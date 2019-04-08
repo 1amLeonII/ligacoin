@@ -1,4 +1,4 @@
-# Install script for directory: /home/project/src
+# Install script for directory: /home/ligacoin_lgn/src
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
